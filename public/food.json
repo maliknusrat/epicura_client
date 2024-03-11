@@ -1,0 +1,109 @@
+[
+  {
+    "foodName": "Spaghetti Bolognese",
+    "foodImage": "spaghetti_bolognese.jpg",
+    "foodCategory": "Pasta",
+    "quantity": 1,
+    "price": 12.99,
+    "addByName": "Chef Giovanni",
+    "addByEmail": "maliknusrat798@gmail.com",
+    "shortDescription": "Classic Italian dish with meaty Bolognese sauce.",
+    "foodOrigin": "Italy"
+  },
+  {
+    
+    "foodName": "Chicken Caesar Salad",
+    "foodImage": "chicken_caesar_salad.jpg",
+    "foodCategory": "Salad",
+    "quantity": 1,
+    "price": 9.99,
+    "addByName": "Chef Olivia",
+    "addByEmail": "maliknusrat798@gmail.com",
+    "shortDescription": "Fresh salad with grilled chicken and Caesar dressing.",
+    "foodOrigin": "United States"
+  },
+  {
+    
+    "foodName": "Sushi Platter",
+    "foodImage": "sushi_platter.jpg",
+    "foodCategory": "Sushi",
+    "quantity": 1,
+    "price": 24.99,
+    "addByName": "Sushi Master Hiroshi",
+    "addByEmail": "maliknusrat798@gmail.com",
+    "shortDescription": "Assorted sushi rolls and sashimi for a delightful experience.",
+    "foodOrigin": "Japan"
+  },
+  {
+   
+    "foodName": "Mushroom Risotto",
+    "foodImage": "mushroom_risotto.jpg",
+    "foodCategory": "Risotto",
+    "quantity": 1,
+    "price": 15.99,
+    "addByName": "Chef Isabella",
+    "addByEmail": "maliknusrat798@gmail.com",
+    "shortDescription": "Creamy risotto with a generous serving of sautéed mushrooms.",
+    "foodOrigin": "Italy"
+  },
+  {
+  
+    "foodName": "Grilled Salmon",
+    "foodImage": "grilled_salmon.jpg",
+    "foodCategory": "Seafood",
+    "quantity": 1,
+    "price": 18.99,
+    "addByName": "Chef Alexander",
+    "addByEmail": "maliknusrat798@gmail.com",
+    "shortDescription": "Juicy grilled salmon fillet with lemon and herbs.",
+    "foodOrigin": "Norway"
+  },
+  {
+    
+    "foodName": "Vegetarian Pizza",
+    "foodImage": "vegetarian_pizza.jpg",
+    "foodCategory": "Pizza",
+    "quantity": 1,
+    "price": 14.99,
+    "addByName": "Chef Maria",
+    "addByEmail": "maliknusrat798@gmail.com",
+    "shortDescription": "Delicious pizza topped with a variety of fresh vegetables.",
+    "foodOrigin": "Italy"
+  },
+  {
+  
+    "foodName": "Chocolate Lava Cake",
+    "foodImage": "chocolate_lava_cake.jpg",
+    "foodCategory": "Dessert",
+    "quantity": 1,
+    "price": 7.99,
+    "addByName": "Pastry Chef Carlos",
+    "addByEmail": "maliknusrat798@gmail.com",
+    "shortDescription": "Decadent chocolate cake with a gooey molten center.",
+    "foodOrigin": "France"
+  },
+  {
+    
+    "foodName": "Beef Tacos",
+    "foodImage": "beef_tacos.jpg",
+    "foodCategory": "Mexican",
+    "quantity": 1,
+    "price": 10.99,
+    "addByName": "Chef Miguel",
+    "addByEmail": "maliknusrat798@gmail.com",
+    "shortDescription": "Spicy beef tacos with salsa and guacamole.",
+    "foodOrigin": "Mexico"
+  },
+  {
+  
+    "foodName": "Pad Thai",
+    "foodImage": "pad_thai.jpg",
+    "foodCategory": "Thai",
+    "quantity": 1,
+    "price": 11.99,
+    "addByName": "Chef Nong",
+    "addByEmail": "maliknusrat798@gmail.com",
+    "shortDescription": "Stir-fried rice noodles with shrimp, tofu, and peanuts.",
+    "foodOrigin": "Thailand"
+  }      
+]
